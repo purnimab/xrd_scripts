@@ -60,3 +60,8 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+fart.exe
+XRD Find and Replace.txt
+
+#Mac backups
+._*
